@@ -192,3 +192,14 @@ A --> E[System Analyst<br>Natasha Athirah binti Abdullah]
 ### PERT Chart
 ![PERT Chart](PERT_Chart.png)
 
+ ## 8.0 BENEFIT AND OVERALL SUMMARY OF PROPOSED SYSTEM 
+The benefit of the proposed system is an automated, user-driven system that allows 
+users to manage bus ticket bookings efficiently given that they have an internet-enabled 
+device. It saves time and energy alongside improving accessibility by utilising modern 
+technology.  
+In conclusion, this system will improve the overall quality-of-life for frequent bus users 
+by increasing accessibility and efficiency for booking tickets. The highlighted features 
+for this proposed system will be real-time information regarding bus schedules and seat 
+availability, allowing flexibility in bookings. Lastly, a user-friendly UI which is easy to 
+understand and use by anyone, anywhere. 
+
