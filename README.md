@@ -142,7 +142,7 @@ A more efficient and reliable system is needed.
 | **Total Benefit (Annual)** | - | **19,320** | **22,218** | **25,550** |
 | | | | |
 | **Present Value (PV)** | - | 17,563 | 18,361 | 19,196 |
-| **Accumulated Benefit** | **17,563** | **35,924** | **55,050** | - |
+| **Accumulated Benefit** | - | **17,563** | **35,924** | **55,050** |
 | **Gain/Loss** | - | -10,985 | -4,595 | 29,500 |
 | **Profitability Index (PI)** | **1.8** | | | |
 
@@ -183,6 +183,26 @@ A --> E[System Analyst<br>Natasha Athirah binti Abdullah]
 ### Work Breakdown Structure
 ![Work Breakdown Structure](WBS.jpeg)
 
+### Project Planning Schedule
+
+| Activity | Description                                | Predecessor | Estimated Time (Days) |
+|----------|--------------------------------------------|-------------|-----------------------|
+| A        | Deciding Leader                            | None        | 1                     |
+| B        | Brainstorming project idea                 | A           | 2                     |
+| C        | Determine project                          | B           | 1                     |
+| D        | Survey and research existed system         | C           | 2                     |
+| E        | Collecting data (Google Form, interview)   | D           | 2                     |
+| F        | Identifying problems and advantages        | E           | 1                     |
+| G        | Propose solutions                          | F           | 1                     |
+| H        | Determine objectives                       | G, F        | 1                     |
+| I        | Feasibility study (financial, technical)   | H           | 2                     |
+| J        | Propose Work Breakdown Structure           | I           | 1                     |
+| K        | Assigning position for all members         | A           | 1                     |
+| L        | Distributing task                          | K           | 1                     |
+| M        | Establish deadline (Gantt chart, PERT)     | J, K, L     | 2                     |
+| N        | Implementing objectives                    | M           | 8                     |
+| O        | Create prototype                           | N           | 5                     |
+
 ### Gantt Chart
 ![Gantt Chart](Gantt_Chart.jpeg)
 
@@ -191,6 +211,25 @@ A --> E[System Analyst<br>Natasha Athirah binti Abdullah]
 
 ### PERT Chart
 ![PERT Chart](PERT_Chart.png)
+
+### PERT Chart Path Analysis
+
+**Path 1:** A‑B‑C‑D‑E‑F‑I‑M‑N‑O‑P‑Q  
+**Length:** 1 + 2 + 1 + 2 + 2 + 1 + 2 + 1 + 2 + 8 + 5 + 2 + 1 = **30 days**
+
+**Path 2:** A‑B‑C‑D‑E‑F‑G‑H‑I‑J‑M‑N‑O‑P‑Q  
+**Length:** 1 + 2 + 1 + 2 + 2 + 1 + 1 + 1 + 2 + 1 + 2 + 8 + 5 + 2 + 1 = **32 days**
+
+**Path 3:** A‑B‑C‑D‑E‑F‑G‑I‑J‑M‑N‑O‑P‑Q  
+**Length:** 1 + 2 + 1 + 2 + 2 + 1 + 1 + 2 + 1 + 2 + 8 + 5 + 2 + 1 = **31 days**
+
+**Path 4:** A‑K‑L‑M‑N‑O‑P‑Q  
+**Length:** 1 + 1 + 1 + 2 + 8 + 5 + 2 + 1 = **21 days**
+
+---
+
+**Critical Path:**  
+The longest path in the PERT diagram is **Path 2**, therefore **Path 2 is the critical path**.
 
  ## 8.0 BENEFIT AND OVERALL SUMMARY OF PROPOSED SYSTEM 
 The benefit of the proposed system is an automated, user-driven system that allows 
