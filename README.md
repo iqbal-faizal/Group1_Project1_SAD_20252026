@@ -183,6 +183,26 @@ A --> E[System Analyst<br>Natasha Athirah binti Abdullah]
 ### Work Breakdown Structure
 ![Work Breakdown Structure](WBS.jpeg)
 
+### Project Planning Schedule
+
+| Activity | Description                                | Predecessor | Estimated Time (Days) |
+|----------|--------------------------------------------|-------------|-----------------------|
+| A        | Deciding Leader                            | None        | 1                     |
+| B        | Brainstorming project idea                 | A           | 2                     |
+| C        | Determine project                          | B           | 1                     |
+| D        | Survey and research existed system         | C           | 2                     |
+| E        | Collecting data (Google Form, interview)   | D           | 2                     |
+| F        | Identifying problems and advantages        | E           | 1                     |
+| G        | Propose solutions                          | F           | 1                     |
+| H        | Determine objectives                       | G, F        | 1                     |
+| I        | Feasibility study (financial, technical)   | H           | 2                     |
+| J        | Propose Work Breakdown Structure           | I           | 1                     |
+| K        | Assigning position for all members         | A           | 1                     |
+| L        | Distributing task                          | K           | 1                     |
+| M        | Establish deadline (Gantt chart, PERT)     | J, K, L     | 2                     |
+| N        | Implementing objectives                    | M           | 8                     |
+| O        | Create prototype                           | N           | 5                     |
+
 ### Gantt Chart
 ![Gantt Chart](Gantt_Chart.jpeg)
 
