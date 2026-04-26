@@ -142,7 +142,7 @@ A more efficient and reliable system is needed.
 | **Total Benefit (Annual)** | - | **19,320** | **22,218** | **25,550** |
 | | | | |
 | **Present Value (PV)** | - | 17,563 | 18,361 | 19,196 |
-| **Accumulated Benefit** | **17,563** | **35,924** | **55,050** | - |
+| **Accumulated Benefit** | - | **17,563** | **35,924** | **55,050** |
 | **Gain/Loss** | - | -10,985 | -4,595 | 29,500 |
 | **Profitability Index (PI)** | **1.8** | | | |
 
