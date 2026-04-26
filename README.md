@@ -192,6 +192,25 @@ A --> E[System Analyst<br>Natasha Athirah binti Abdullah]
 ### PERT Chart
 ![PERT Chart](PERT_Chart.png)
 
+### PERT Chart Path Analysis
+
+**Path 1:** A‑B‑C‑D‑E‑F‑I‑M‑N‑O‑P‑Q  
+**Length:** 1 + 2 + 1 + 2 + 2 + 1 + 2 + 1 + 2 + 8 + 5 + 2 + 1 = **30 days**
+
+**Path 2:** A‑B‑C‑D‑E‑F‑G‑H‑I‑J‑M‑N‑O‑P‑Q  
+**Length:** 1 + 2 + 1 + 2 + 2 + 1 + 1 + 1 + 2 + 1 + 2 + 8 + 5 + 2 + 1 = **32 days**
+
+**Path 3:** A‑B‑C‑D‑E‑F‑G‑I‑J‑M‑N‑O‑P‑Q  
+**Length:** 1 + 2 + 1 + 2 + 2 + 1 + 1 + 2 + 1 + 2 + 8 + 5 + 2 + 1 = **31 days**
+
+**Path 4:** A‑K‑L‑M‑N‑O‑P‑Q  
+**Length:** 1 + 1 + 1 + 2 + 8 + 5 + 2 + 1 = **21 days**
+
+---
+
+**Critical Path:**  
+The longest path in the PERT diagram is **Path 2**, therefore **Path 2 is the critical path**.
+
  ## 8.0 BENEFIT AND OVERALL SUMMARY OF PROPOSED SYSTEM 
 The benefit of the proposed system is an automated, user-driven system that allows 
 users to manage bus ticket bookings efficiently given that they have an internet-enabled 
