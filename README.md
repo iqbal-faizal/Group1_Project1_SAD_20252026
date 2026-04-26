@@ -97,7 +97,56 @@ A more efficient and reliable system is needed.
 - Annual increment (costs): 5%  
 - Annual increment (benefits): 15%  
 
-*(Insert cost‑benefit tables here using Markdown as we discussed earlier)*
+## Cost–Benefit Analysis
+
+### Estimated Costs
+| Item | Amount (RM) |
+|------|--------------|
+| Labour | 10,500 |
+| Software | 5,500 |
+| Maintenance | 3,500 |
+| Utilities | 2,500 |
+
+### Estimated Benefits
+| Item | Amount (RM) |
+|------|--------------|
+| Reduced manpower cost | 18,000 |
+| Increased ticket sales | 9,600 |
+
+### Assumptions
+| Parameter | Value |
+|------------|--------|
+| Discount rate | 10% |
+| Sensitivity factor (costs) | 50% |
+| Sensitivity factor (benefits) | 70% |
+| Annual increment (costs) | 5% |
+| Annual increment (benefits) | 15% |
+
+### Yearly Breakdown
+| Criteria | Year 0 | Year 1 | Year 2 | Year 3 |
+|-----------|--------|--------|--------|--------|
+| ***1. Cost***|
+| ***A. DEVELOPMENT*** |
+|  | 10500 | - | - | - |
+|  | 5500 | - | - | - |
+| **Development Cost** | **16,000** | - | - | - |
+| ***B. OPERATION*** |
+|  | - | 9000 | 9450 | 9922 |
+|  | - | 4800 | 5040 | 5292 |
+| **Total Operation Cost** | - | 13,800 | 14,490 | 15,214 |
+| **Present Value (Cost)** | - | 12,545 | 11,975 | 11,430 |
+| **Accumulated Cost** | - | **28,548** | **40,520** | **51,950** |
+| ***2. BENEFITS*** |
+| | - | 12600 | 14490 | 16663 |
+| | - | 6720 | 7728 | 8887 |
+| **Total Benefit (Annual)** | - | **19,320** | **22,218** | **25,550** |
+| | | | |
+| **Present Value (PV)** | - | 17,563 | 18,361 | 19,196 |
+| **Accumulated Benefit** | **17,563** | **35,924** | **55,050** | - |
+| **Gain/Loss** | - | -10,985 | -4,595 | 29,500 |
+| **Profitability Index (PI)** | **1.8** | | | |
+
+
 
 ---
 
