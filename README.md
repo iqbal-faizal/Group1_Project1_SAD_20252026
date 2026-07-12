@@ -3,7 +3,7 @@
 **Faculty of Computing – Johor Bahru**  
 Course: System Analysis and Design (SECD2613)  
 Section: 05  
-Lecturer: Pn. Nor Anita Fairos Binti Ismail  
+Lecturer: Dr. Nor Anita Fairos Binti Ismail  
 
 ---
 
